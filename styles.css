@@ -22,3 +22,7 @@ li:hover {
 img {
     width: 100%;
 }
+
+.post {
+    text-decoration: none;
+}
