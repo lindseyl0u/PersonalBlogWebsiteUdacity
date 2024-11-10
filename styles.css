@@ -3,3 +3,9 @@ ul {
     justify-content: space-around;
 }
 
+li {
+    list-style: none;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
