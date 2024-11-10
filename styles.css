@@ -18,3 +18,7 @@ li a {
 li:hover {
     background-color: red;
 }
+
+img {
+    width: 100%;
+}
