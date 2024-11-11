@@ -27,6 +27,13 @@ img {
     width: 100%;
 }
 
+
+p {
+    color: #3e3f37;
+    font-weight: 500;
+    line-height: 1.40em;
+}
+
 .post {
     text-decoration: none;
 }
