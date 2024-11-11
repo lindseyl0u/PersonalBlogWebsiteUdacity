@@ -72,6 +72,19 @@ button {
     margin-left: 14px;
 }
 
+.bioContainer {
+    display: flex;
+    align-items: center;
+}
+
+.bioItems, .bio p {
+    font-size: .80em;
+}
+
+.bio p {
+    margin-left: 40px;
+}
+
 /* media query*/
 @media (min-width: 492px) {
     .container {
