@@ -51,6 +51,10 @@ button {
     color: #3e3f37;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 /* Index */
 
 .post {
@@ -86,7 +90,7 @@ button {
     font-size: .80em;
 }
 
-.bio p, .blogPost p {
+.bio p, .blogPost p, .shareButtons {
     margin-left: 40px;
 }
 
