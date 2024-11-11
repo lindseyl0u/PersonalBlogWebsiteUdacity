@@ -75,6 +75,11 @@ button {
 .bioContainer {
     display: flex;
     align-items: center;
+
+}
+
+.bioItems {
+    margin-left: -40px;
 }
 
 .bioItems, .bio p {
