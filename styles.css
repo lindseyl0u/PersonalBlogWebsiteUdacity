@@ -51,6 +51,8 @@ button {
     color: #3e3f37;
 }
 
+/* Index */
+
 .post {
     text-decoration: none;
 }
@@ -62,6 +64,8 @@ button {
     border-radius: 12px;
     margin-top: 8px;
 }
+
+/* Feature */
 
 /* media query*/
 @media (min-width: 492px) {
