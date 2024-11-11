@@ -86,7 +86,7 @@ button {
     font-size: .80em;
 }
 
-.bio p {
+.bio p, .blogPost p {
     margin-left: 40px;
 }
 
