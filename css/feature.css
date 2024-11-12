@@ -1,0 +1,24 @@
+/* Feature */
+.avatar {
+    clip-path: circle();
+    width: 75px;
+    margin-left: 14px;
+}
+
+.bioContainer {
+    display: flex;
+    align-items: center;
+
+}
+
+.bioItems {
+    margin-left: -40px;
+}
+
+.bioItems, .bio p {
+    font-size: .80em;
+}
+
+.bio p, .blogPost p, .shareButtons {
+    margin-left: 40px;
+}

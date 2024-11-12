@@ -1,0 +1,13 @@
+/* Index */
+
+.post {
+    text-decoration: none;
+}
+
+.card {
+    /* background: #b0cdeb; */
+    background: rgba(176, 205, 235, .25);
+    padding: 8px 0px;
+    border-radius: 12px;
+    margin-top: 8px;
+}

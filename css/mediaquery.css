@@ -1,0 +1,13 @@
+/* media query*/
+@media (min-width: 492px) {
+    .container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 8px;
+        grid-row-gap: 8px;
+    }
+    .avatar {
+        width: 175px;
+        margin-left: 14px;
+    } 
+}
